@@ -7,9 +7,9 @@ With real-time object detection and analysis, the system utilizes deep learning 
 
 "AI-Powered Awake-Drowsy Monitoring" is more than just a technological marvel – it's a life-saving companion that ensures heightened safety and awareness, making it an essential tool for drivers and individuals engaged in tasks where staying awake and alert is paramount.
 
-# App Pre
-![Untitled-design](https://github.com/actuaryhafeez/AI-Powered-Awake-Drowsy-Monitoring/assets/55107467/31f694b6-c135-4868-b294-68a9ad91c064)
+# App Preview
 
+![Untitled design](https://github.com/actuaryhafeez/AI-Powered-Awake-Drowsy-Monitoring/assets/55107467/9d164ab6-a982-4aea-9828-846b25ffdec2)
 
 
 # Features
