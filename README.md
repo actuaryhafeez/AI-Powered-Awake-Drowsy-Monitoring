@@ -8,7 +8,7 @@ With real-time object detection and analysis, the system utilizes deep learning 
 "AI-Powered Awake-Drowsy Monitoring" is more than just a technological marvel – it's a life-saving companion that ensures heightened safety and awareness, making it an essential tool for drivers and individuals engaged in tasks where staying awake and alert is paramount.
 
 # App Preview
-![ezgif com-video-to-gif (1)](https://github.com/actuaryhafeez/AI-Powered-Awake-Drowsy-Monitoring/assets/55107467/ec71be31-2fc5-469f-8b91-632058053be6)
+![Untitled design](https://github.com/actuaryhafeez/AI-Powered-Awake-Drowsy-Monitoring/assets/55107467/0031647c-2b86-4285-a484-2d2091b5ffe8)
 
 # Features
 - YOLOv5 Integration: Built on YOLOv5 architecture for accurate object detection.
